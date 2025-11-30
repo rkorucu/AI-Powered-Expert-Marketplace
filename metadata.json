@@ -1,0 +1,8 @@
+{
+  "name": "Nexus - AI Service Marketplace",
+  "description": "An end-to-end marketplace connecting clients with experts using AI matching, scheduling, and integrated video sessions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
